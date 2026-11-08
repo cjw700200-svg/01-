@@ -1,0 +1,6 @@
+{
+  "name": "Shopee SG - Daily Discover & Mega Sale",
+  "description": "Singapore's leading online shopping platform featuring daily flash deals, Shopee Mall official brands, free shipping vouchers, and ShopeePay rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
